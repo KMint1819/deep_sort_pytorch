@@ -1,0 +1,7 @@
+YOLOV3:
+  CFG: "./detector/YOLOv3/cfg/miotcd-tiny_yolov3.cfg"
+  WEIGHT: "./detector/YOLOv3/weight/nan_miotcd-tiny_20200405.pt"
+  CLASS_NAMES: "./detector/YOLOv3/cfg/miotcd.names"
+
+  SCORE_THRESH: 0.5
+  NMS_THRESH: 0.4

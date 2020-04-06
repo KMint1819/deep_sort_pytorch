@@ -6,7 +6,9 @@ dataset/
 
 # Files
 *.weights
+*.pt
 *.t7
 *.mp4
 *.avi
 *.so
+*.weights.1
